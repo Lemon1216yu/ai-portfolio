@@ -20,6 +20,6 @@ Python、MySQL、LangGraph、模型 API。截图回放使用项目保存的模�
 
 ## 体验方式
 
-公开作品集提供截图与说明，本地可运行版本可在面试时演示。源码仓库保留为私有。
+公开作品集提供截图与说明，本地可运行版本可在面试时演示。[项目源码与 README](https://github.com/Lemon1216yu/textile_insight_agent)。
 
 [返回作品集](../README.md)

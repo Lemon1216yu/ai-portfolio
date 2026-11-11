@@ -10,6 +10,8 @@
 
 ## 01 织见：经营数据分析
 
+**[进入 GitHub 项目仓库 ↗](https://github.com/Lemon1216yu/textile_insight_agent)**
+
 三张功能界面使用原前端回放已保存的模拟运行记录；不是在线查询服务。
 
 ### 01　问数：8 月营业收入是多少？
@@ -36,13 +38,15 @@
 
 实际运行截图 · 登录入口
 
-[阅读项目说明](docs/chatbi.md)
+**[进入项目仓库：代码与 README](https://github.com/Lemon1216yu/textile_insight_agent)** · [阅读作品集说明](docs/chatbi.md)
 
 ---
 
 <a id="rag"></a>
 
 ## 02 织知：面料知识检索
+
+**[进入 GitHub 项目仓库 ↗](https://github.com/Lemon1216yu/textile-rag-assistant)**
 
 此截图展示检索原文与引用。截图时未连接生成模型，因此不将其描述为模型生成答案。
 
@@ -58,7 +62,7 @@
 
 实际运行截图 · 登录入口
 
-[阅读项目说明](docs/rag.md)
+**[进入项目仓库：代码与 README](https://github.com/Lemon1216yu/textile-rag-assistant)** · [阅读作品集说明](docs/rag.md)
 
 ## 如何体验
 
